@@ -1,0 +1,5 @@
+{
+  "name": "TACO: Market Manipulator",
+  "description": "Roleplay as a volatile president in this strategic market manipulation game. Use the Gemini API to generate scenarios, tweet wildly, and perform insider trading.",
+  "requestFramePermissions": []
+}
